@@ -14,6 +14,8 @@
 		1C0CB75B2AA1AD71000C435F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C0CB7592AA1AD71000C435F /* LaunchScreen.storyboard */; };
 		1C0CB7642AA1ADCE000C435F /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C0CB7632AA1ADCE000C435F /* DashboardViewController.swift */; };
 		1C0CB7662AA1C12B000C435F /* BasicProgramsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C0CB7652AA1C12B000C435F /* BasicProgramsVC.swift */; };
+		1C2617BC2AAF4D8900E7D86E /* ProgramDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C2617BB2AAF4D8900E7D86E /* ProgramDetailsVC.swift */; };
+		1C2617BF2AAF4FBC00E7D86E /* StringReverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C2617BE2AAF4FBC00E7D86E /* StringReverse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		1C0CB75C2AA1AD71000C435F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C0CB7632AA1ADCE000C435F /* DashboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
 		1C0CB7652AA1C12B000C435F /* BasicProgramsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicProgramsVC.swift; sourceTree = "<group>"; };
+		1C2617BB2AAF4D8900E7D86E /* ProgramDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramDetailsVC.swift; sourceTree = "<group>"; };
+		1C2617BE2AAF4FBC00E7D86E /* StringReverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringReverse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,7 @@
 		1C0CB74D2AA1AD6F000C435F /* UpSkill */ = {
 			isa = PBXGroup;
 			children = (
+				1C2617BD2AAF4FA300E7D86E /* Programs */,
 				1C0CB7622AA1ADAF000C435F /* Controller */,
 				1C0CB74E2AA1AD6F000C435F /* AppDelegate.swift */,
 				1C0CB7502AA1AD6F000C435F /* SceneDelegate.swift */,
@@ -74,8 +79,17 @@
 			children = (
 				1C0CB7632AA1ADCE000C435F /* DashboardViewController.swift */,
 				1C0CB7652AA1C12B000C435F /* BasicProgramsVC.swift */,
+				1C2617BB2AAF4D8900E7D86E /* ProgramDetailsVC.swift */,
 			);
 			path = Controller;
+			sourceTree = "<group>";
+		};
+		1C2617BD2AAF4FA300E7D86E /* Programs */ = {
+			isa = PBXGroup;
+			children = (
+				1C2617BE2AAF4FBC00E7D86E /* StringReverse.swift */,
+			);
+			path = Programs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -150,6 +164,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1C0CB74F2AA1AD6F000C435F /* AppDelegate.swift in Sources */,
+				1C2617BF2AAF4FBC00E7D86E /* StringReverse.swift in Sources */,
+				1C2617BC2AAF4D8900E7D86E /* ProgramDetailsVC.swift in Sources */,
 				1C0CB7642AA1ADCE000C435F /* DashboardViewController.swift in Sources */,
 				1C0CB7662AA1C12B000C435F /* BasicProgramsVC.swift in Sources */,
 				1C0CB7512AA1AD6F000C435F /* SceneDelegate.swift in Sources */,

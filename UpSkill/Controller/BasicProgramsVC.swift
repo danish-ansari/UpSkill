@@ -33,4 +33,8 @@ extension BasicProgramsVC: UITableViewDataSource, UITableViewDelegate{
         
         return cell!
     }
+    
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        performSegue(withIdentifier: "programDetailsSegue", sender: indexPath)
+    }
 }

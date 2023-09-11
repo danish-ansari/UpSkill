@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "05896423-12A3-462C-88BD-A1BAC76425A8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A644D20E-307B-4A55-B0C8-756B5DFF8E43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UpSkill/Programs/StringReverse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "reverse1(str:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA5472CD-AAF3-4CBF-BCC7-59CFEB6C99A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UpSkill/Programs/StringReverse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "reverse2(str:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA5472CD-AAF3-4CBF-BCC7-59CFEB6C99A2 - e15fba28f310ed60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static UpSkill.StringReverse.reverse2(str: Swift.String) -&gt; Swift.String"
+                  moduleName = "UpSkill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danish/Documents/Learn/UpSkill/UpSkill/Programs/StringReverse.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "305">
+               </Location>
+               <Location
+                  uuid = "FA5472CD-AAF3-4CBF-BCC7-59CFEB6C99A2 - e15fba28f310ed60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static UpSkill.StringReverse.reverse2(str: Swift.String) -&gt; Swift.String"
+                  moduleName = "UpSkill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danish/Documents/Learn/UpSkill/UpSkill/Programs/StringReverse.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6D53EDD-4407-44CB-8CCD-897B3311F969"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UpSkill/Programs/StringReverse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "reverse3(s:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
